@@ -11,7 +11,7 @@ public class SampleTest {
 @Test
 	public void sampleTest() {
 	//	WebDriver driver;
-	//i'm database
+	//hi
 		WebDriver driver = new ChromeDriver();
 		
 	/*	 String BROWSER= System.getProperty("browser");
